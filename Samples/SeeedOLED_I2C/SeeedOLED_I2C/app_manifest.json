@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "SeeedOLED_I2C",
+  "ComponentId" : "4595840c-94e8-48ea-9bd2-1b8167015973",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [],
+    "Uart": [],
+    "I2cMaster": ["ISU1"],
+    "SpiMaster": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}

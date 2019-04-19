@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AD7991_I2C", "AD7991_I2C\AD7991_I2C.vcxproj", "{18D2DA2E-003E-40CF-A5D6-DF9DE4FB5823}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18D2DA2E-003E-40CF-A5D6-DF9DE4FB5823}.Debug|ARM.ActiveCfg = Debug|ARM
+		{18D2DA2E-003E-40CF-A5D6-DF9DE4FB5823}.Debug|ARM.Build.0 = Debug|ARM
+		{18D2DA2E-003E-40CF-A5D6-DF9DE4FB5823}.Release|ARM.ActiveCfg = Release|ARM
+		{18D2DA2E-003E-40CF-A5D6-DF9DE4FB5823}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8EBCB21-0B7A-4A4A-A63B-3F2ED4FE898E}
+	EndGlobalSection
+EndGlobal

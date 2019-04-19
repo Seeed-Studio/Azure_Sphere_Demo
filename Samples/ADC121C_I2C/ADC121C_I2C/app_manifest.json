@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "ADC121C_I2C",
+  "ComponentId" : "06cae3fa-0b2e-4c35-b3bd-bcc0e852efe6",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [],
+    "Uart": [],
+    "I2cMaster": ["ISU1"],
+    "SpiMaster": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}

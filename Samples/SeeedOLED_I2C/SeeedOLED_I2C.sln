@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2016
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SeeedOLED_I2C", "SeeedOLED_I2C\SeeedOLED_I2C.vcxproj", "{25CA33BB-16EC-4778-B1DB-DDF67793AA6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|ARM = Debug|ARM
+		Release|ARM = Release|ARM
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{25CA33BB-16EC-4778-B1DB-DDF67793AA6D}.Debug|ARM.ActiveCfg = Debug|ARM
+		{25CA33BB-16EC-4778-B1DB-DDF67793AA6D}.Debug|ARM.Build.0 = Debug|ARM
+		{25CA33BB-16EC-4778-B1DB-DDF67793AA6D}.Release|ARM.ActiveCfg = Release|ARM
+		{25CA33BB-16EC-4778-B1DB-DDF67793AA6D}.Release|ARM.Build.0 = Release|ARM
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0512035B-19F2-4292-96B2-7641FE6225AD}
+	EndGlobalSection
+EndGlobal

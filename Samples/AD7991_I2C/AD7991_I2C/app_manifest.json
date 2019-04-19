@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "AD7991_I2C",
+  "ComponentId" : "a1b06416-f8c9-4f93-85a1-16a9f84286de",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [41, 42],
+    "Uart": [],
+    "I2cMaster": ["ISU1"],
+    "SpiMaster": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}

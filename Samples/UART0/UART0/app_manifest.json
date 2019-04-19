@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name" : "UART0",
+  "ComponentId" : "4283cdf7-cd07-4564-b5b5-660891e9eb3a",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [6],
+    "Uart": ["ISU0"],
+    "I2cMaster": [],
+    "SpiMaster": [],
+    "WifiConfig": false,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}
