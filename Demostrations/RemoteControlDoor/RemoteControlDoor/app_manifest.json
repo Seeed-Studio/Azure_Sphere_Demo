@@ -1,0 +1,19 @@
+{
+  "SchemaVersion": 1,
+  "Name": "RemoteControlDoor",
+  "ComponentId": "c840b270-999c-48dc-bd7c-e4b258d174b2",
+  "EntryPoint": "/bin/app",
+  "CmdArgs": [],
+  "Capabilities": {
+    "AllowedConnections": [ "SeeedIoTHubTest.azure-devices.net", "Seeediothub.azure-devices.net" ],
+    "AllowedTcpServerPorts": [],
+    "AllowedUdpServerPorts": [],
+    "Gpio": [ 6, 7, 8, 9, 10, 15, 16, 17, 18, 19, 20, 12, 13, 30, 35 ],
+    "Uart": [ "ISU1", "ISU0" ],
+    "I2cMaster": [],
+    "SpiMaster": [],
+    "WifiConfig": true,
+    "NetworkConfig": false,
+    "SystemTime": false
+  }
+}

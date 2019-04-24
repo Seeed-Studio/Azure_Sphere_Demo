@@ -8,6 +8,8 @@
 *.user
 *.userosscache
 *.sln.docstates
+*azure_iot_utilities.c
+*azure_iot_utilities.h
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
