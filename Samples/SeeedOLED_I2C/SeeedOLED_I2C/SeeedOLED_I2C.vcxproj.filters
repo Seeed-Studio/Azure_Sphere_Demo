@@ -22,7 +22,7 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <UpToDateCheckInput Include="app_manifest.json" />
-    <ClCompile Include="oled_sh1107g.c">
+    <ClCompile Include="seeedoled.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
@@ -30,7 +30,7 @@
     <ClInclude Include="mt3620_rdb.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="oled_sh1107g.h">
+    <ClInclude Include="seeedoled.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
